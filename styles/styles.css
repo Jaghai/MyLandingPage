@@ -1,0 +1,204 @@
+
+.navbar-default .navbar-brand {
+  color: white;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: white;
+}
+
+.my-nav {
+  background-color: 2D7F26;
+  border-bottom: none;
+  margin-bottom: 0;
+}
+
+.navbar-default .navbar-nav>li:hover {
+  background-color: #54D281;
+
+}
+.navbar-default .navbar-nav .open a:focus {
+  background-color: #B9FFD2;
+}
+
+#logo {
+  margin: 10px;
+  padding-top: 2px;
+  width: 100px;
+}
+
+.ih-text {
+  float: none;
+}
+
+.my-jumbo {
+  background-image: url('../images/food2.png');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center center;
+  height: 98vh;
+}
+
+.my-jumbo h1 {
+  color: white;
+}
+
+.btn-primary {
+background-color: #54D281;
+border: none;
+}
+
+.btn-primary:hover {
+background-color: #2D7F26;
+}
+
+.btn-primary button:focus {
+background-color: #B9FFD2;
+}
+
+.h3-1 {
+color: green ;
+}
+
+.h3-2 {
+color: green ;
+}
+
+.h3-3 {
+color: green ;
+}
+
+.jumbo-p {
+  color:white;
+  font-family: "Helvetica",sans-serif;
+  font-size:80;
+  letter-spacing: 3px;
+  text-align: Left;
+  margin-left: 50px;
+  padding-top: 65px;
+  width: 100px;
+}
+
+
+.p-1{
+color:white;
+font-family: "Helvetica",sans-serif;
+text-align: Left;
+margin-left: 50px;
+padding-top: 2px;
+}
+
+.p-2{
+color:white;
+font-family: "Helvetica",sans-serif;
+text-align: Left;
+margin-left: 50px;
+line-height:.5px;
+}
+
+.p-3{
+color:white;
+font-family: "Helvetica",sans-serif;
+text-align: Left;
+margin-left: 50px;
+}
+
+.p-4{
+color:white;
+font-family: "Helvetica",sans-serif;
+text-align: Left;
+margin-left: 50px;
+line-height:.5px;
+}
+
+.p-games {
+  color: black;
+}
+
+.p-daily {
+  color: black;
+}
+
+.p-bet {
+  color: black;
+}
+.features {
+  color: black;
+  line-height:5px;
+}
+
+.thumbnail img {
+height: 300px;
+}
+
+.my-carousel {
+  background-color: #D48381;
+  margin-top: 30px;
+}
+
+.my-carousel h1 {
+  color: white;
+}
+
+.my-carousel h4,p {
+  color: white;
+}
+
+.my-image {
+  margin-bottom: 2%;
+}
+
+.carousel-control.left, .carousel-control.right {
+  background-image: none;
+}
+
+.my-form {
+  padding: 5% 20%;
+}
+
+.jnglejane {
+  width: 300px;
+}
+.form-inline .my-input {
+  /* vw => view width */
+  width: 40vw;
+}
+/*.h1-customers {
+  margin-bottom: 4%;
+} */
+.social:hover {
+  -webkit-transform: scale(1.1);
+  -moz-transform: scale(1.1);
+  -o-transform: scale(1.1);
+}
+
+.social {
+  -webkit-transform: scale(0.8);
+  /* Browser Variations: */
+  -moz-transform: scale(0.8);
+  -o-transform: scale(0.8);
+  -webkit-transition-duration: 0.5s;
+  -moz-transition-duration: 0.5s;
+  -o-transition-duration: 0.5s;
+}
+/*
+ Multicoloured Hover Variations
+*/
+#social-fb:hover {
+  color: #3B5998;
+}
+
+#social-tw:hover{
+  color: #4099FF;
+}
+
+#social-gp:hover {
+  color: #d34836;
+}
+
+#social-em:hover {
+  color: #f39c12;
+}
+/* #social-em:hover {
+  color: #f39c12;
+} */
